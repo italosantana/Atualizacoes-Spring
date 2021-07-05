@@ -36,6 +36,20 @@ Vamos as atualiações do `5.3.8`:
 
 <h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
 
-<h3 align="center" >Spring Framework</h3>
-Versão que está: 5.3.8<br/>
-Última atualização: 09/06/2021
+<h3 align="center" >Spring Data</h3>
+Versão que está: 2021.0.2<br/>
+Última atualização: 2021
+
+Vamos as atualiações do `2021.0.2`:
+- Deixará o repositório poderoso e terá abstrações de mapeamento de objeto personalizadas
+- Facilitação da consulta dinâmica a partir de nomes de métodos de repositório
+- Implementação em classes de base de domínio que fornecem propriedades básicas
+- Suporte para auditoria transparente (criado, última alteração)
+- Possibilidade de integrar código de repositório customizado
+- Fácil integração Spring via JavaConfig e namespaces XML personalizados
+- Integração avançada com controladores Spring MVC
+- Suporte experimental para persistência entre lojas
+
+
+
+
