@@ -20,4 +20,22 @@ Versão que está: 2.5.2<br/>
 - Vai fornecer recursos prontos para produção, como métricas, verificações de integridade e configuração externalizada
 - Não terá absolutamente nenhuma geração de código e nenhum requisito para configuração XML
 
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
 
+<h3 align="center" >Spring Framework</h3>
+Versão que está: 5.3.8<br/>
+Última atualização: 09/06/2021
+
+Vamos as atualiações do `5.3.8`:
+- Core de tecnologias: injeção de dependência, eventos, recursos, i18n, validação, vinculação de dados, conversão de tipo, SpEL, AOP
+- Teste: objetos mock, framework TestContext, Spring MVC Test, WebTestClient.
+- Acesso a data: transição, suporte ao DAO, JDBC, ORM, Marshalling XML
+- Spring MVC e à Framework Spring WebFlux Web
+- Integração: remota, JMS, JCA, JMX, email, tasks(tarefas), agendamento(scheduling) e cache
+- Lingaguens: Kotlin, Groovy e linguagens dinâmicas
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Framework</h3>
+Versão que está: 5.3.8<br/>
+Última atualização: 09/06/2021
