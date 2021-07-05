@@ -50,6 +50,23 @@ Vamos as atualiações do `2021.0.2`:
 - Integração avançada com controladores Spring MVC
 - Suporte experimental para persistência entre lojas
 
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
 
+<h3 align="center" >Spring Cloud</h3>
+Versão que está: 2020.0.3<br/>
+Última atualização: 2020
+
+Spring Cloud se concentra em fornecer uma boa experiência pronta para uso para casos de típicos uso e mecanismo de extensibilidade para cobrir os outros.
+
+Vamos as atualiações do `2020.0.3`:
+- Configuração distribuída / com versão
+- Registro e descoberta de serviço
+- Encaminhamento
+- Chamadas serviço a serviço
+- Balanceamento de carga
+- Disjuntores
+- Bloqueios globais
+- Eleição de liderança e estado do agrupamento
+- Mensagens distribuídas
 
 
