@@ -150,3 +150,17 @@ Vamos as atualiações do `1.3.2`:
 - API Link builder para criar links apontadores para métodos do controlador Spring MVC
 - Suporte para formatos hipermídia como HAL
 
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Batch</h3>
+Versão que está: 4.3.3<br/>
+Última atualização: 19/05/2011
+
+Vamos as atualiações do `4.3.3`:
+- Gestão de transações
+- Processamento baseado em bloco
+- Declarativa I/O 
+- Iniciar/Parar/Reiniciar
+- Tentar novamente/pular
+- Interface de administração baseada na Web (Spring Cloud Data Flow)
+
