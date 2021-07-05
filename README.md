@@ -74,7 +74,7 @@ Vamos as atualiações do `2020.0.3`:
 <h3 align="center" >Spring Cloud Data Flow</h3>
 Versão que está: 2.8.1<br/>
 Última atualização: 25/06/2021
-
+<br/>
 O Spring Cloud Data Flow oferece suporte a uma variedade de casos de uso de processamento de dados, de ETL a importação/exportação, streaming de eventos e análise preditiva.
 
 Vamos as atualiações do `2.8.1`:
@@ -85,3 +85,17 @@ Vamos as atualiações do `2.8.1`:
 - A Dashboard oferece um editor gráfico para construir pipelines de dados interativamente, bem como visualizações de aplicativos implantáveis e monitorá-los com métricas usando Wavefront, Prometheus, Influx DB ou outros sistemas de monitoramento.
 - O servidor Spring Cloud Data Flow expõe uma API REST para compor e implantar pipelines de dados. Um shell separado facilita o trabalho com a API a partir da linha de comando.
 
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Security</h3>
+Versão que está: 5.5.1<br/>
+Última atualização: 22/06/2021
+
+Spring Security é uma estrutura que se concentra em fornecer autenticação e autorização para aplicativos Java. Como todos os projetos do Spring, o verdadeiro poder do Spring Security é encontrado na facilidade com que pode ser estendido para atender aos requisitos personalizados.
+
+Vamos as atualiações do `5.5.1`:
+- Suporte abrangente e extensível para autenticação e autorização
+- Proteção contra ataques como fixação de sessão, clickjacking, falsificação de solicitação entre sites, etc.
+- Integração de API de servlet
+- Integração opcional com Spring Web MVC
+- Virá muito mais…
