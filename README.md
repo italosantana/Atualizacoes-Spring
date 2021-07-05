@@ -1,6 +1,3 @@
-# Atualizacoes-Spring
-
-Acompanhe as atualizações sobre as tecnologias do Ecosistema Spring em [PT-BR] 
 
 <br />
 <p align="center">
@@ -9,3 +6,4 @@ Acompanhe as atualizações sobre as tecnologias do Ecosistema Spring em [PT-BR]
   </a>
 
   <h3 align="center">Bem vindo(a) ao Ecosistema Spring</h3>
+  <h4 align="center">Acompanhe as atualizações sobre as tecnologias do Ecosistema Spring em [PT-BR] </h4>
