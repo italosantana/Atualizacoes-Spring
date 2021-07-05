@@ -115,7 +115,7 @@ Vamos as atualiações do `2021.0.1`:
 <h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
 
 <h3 align="center" >Spring Integration</h3>
-Versão que está: 5.5.1br/>
+Versão que está: 5.5.1<br/>
 Última atualização: 23/06/2011
 
 Vamos as atualiações do `5.5.1`:
@@ -142,7 +142,7 @@ Vamos as atualiações do `5.5.1`:
 <h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
 
 <h3 align="center" >Spring HATEOAS</h3>
-Versão que está: 1.3.2br/>
+Versão que está: 1.3.2<br/>
 Última atualização: 23/06/2011
 
 Vamos as atualiações do `1.3.2`:
