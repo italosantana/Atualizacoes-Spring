@@ -110,3 +110,31 @@ Vamos as atualiações do `2021.0.1`:
 - HttpSession: permite substituir a HttpSession em um contêiner de aplicativo (ou seja, Tomcat) de maneira neutra, com suporte para fornecer IDs de sessão em cabeçalhos para trabalhar com APIs RESTful
 - WebSocket: fornece a capacidade de manter o HttpSession ativo ao receber mensagens WebSocket
 - WebSession: permite substituir a WebSession do Spring WebFlux em um contêiner de aplicativo de maneira neutra
+
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Integration</h3>
+Versão que está: 5.5.1br/>
+Última atualização: 23/06/2011
+
+Vamos as atualiações do `5.5.1`:
+- Implementação da maioria dos padrões de integração empresarial
+- Endpoint
+- Canal (ponto a ponto e publicar/assinar)
+- Agregador
+- Filtro
+- Transformador
+- Barramento de controle
+- Integração com Sistemas Externos
+- ReST / HTTP
+- FTP / SFTP
+- Twitter
+- WebServices (SOAP e ReST)
+- TCP / UDP
+- JMS
+- RabbitMQ
+- E-mail
+- A estrutura terá amplo suporte JMX
+- Exposição de componentes do framework como MBeans
+- Adaptadores para obter atributos de MBeans, invocar operações, enviar/receber notificações
