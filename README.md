@@ -138,3 +138,15 @@ Vamos as atualiações do `5.5.1`:
 - A estrutura terá amplo suporte JMX
 - Exposição de componentes do framework como MBeans
 - Adaptadores para obter atributos de MBeans, invocar operações, enviar/receber notificações
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring HATEOAS</h3>
+Versão que está: 1.3.2br/>
+Última atualização: 23/06/2011
+
+Vamos as atualiações do `1.3.2`:
+- Classes de modelo para link e modelos de representação de recursos
+- API Link builder para criar links apontadores para métodos do controlador Spring MVC
+- Suporte para formatos hipermídia como HAL
+
