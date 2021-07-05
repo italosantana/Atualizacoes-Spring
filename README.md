@@ -69,4 +69,19 @@ Vamos as atualiações do `2020.0.3`:
 - Eleição de liderança e estado do agrupamento
 - Mensagens distribuídas
 
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Cloud Data Flow</h3>
+Versão que está: 2.8.1<br/>
+Última atualização: 25/06/2021
+
+O Spring Cloud Data Flow oferece suporte a uma variedade de casos de uso de processamento de dados, de ETL a importação/exportação, streaming de eventos e análise preditiva.
+
+Vamos as atualiações do `2.8.1`:
+- O servidor Spring Cloud Data Flow usa Spring Cloud Deployar para implantar pipelines de dados feitos de aplicativos Spring Cloud Stream ou Spring Cloud Task em plataformas modernas, como Cloud Foundry e Kubernetes.
+- Uma seleção de aplicativos de fluxo e tarefas/lote iniciais pré-construídos para vários cenários de integração e processamento de dados facilitam o aprendizado e a experimentação.
+- Aplicativos de fluxo e tarefa personalizados, visando diferentes middleware ou serviços de dados, podem ser construídos usando o modelo de programação de estilo Spring Boot familiar.
+- Um DSL pipeline de fluxo simples torna mais fácil especificar quais aplicativos implantar e como conectar saídas e entradas. A tarefa composta DSL é útil para quando uma série de aplicativos de tarefas precisam ser executados como um gráfico direcionado.
+- A Dashboard oferece um editor gráfico para construir pipelines de dados interativamente, bem como visualizações de aplicativos implantáveis e monitorá-los com métricas usando Wavefront, Prometheus, Influx DB ou outros sistemas de monitoramento.
+- O servidor Spring Cloud Data Flow expõe uma API REST para compor e implantar pipelines de dados. Um shell separado facilita o trabalho com a API a partir da linha de comando.
 
