@@ -99,3 +99,14 @@ Vamos as atualiações do `5.5.1`:
 - Integração de API de servlet
 - Integração opcional com Spring Web MVC
 - Virá muito mais…
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Session</h3>
+Versão que está: 2021.0.1<br/>
+Última atualização: 2021
+
+Vamos as atualiações do `2021.0.1`:
+- HttpSession: permite substituir a HttpSession em um contêiner de aplicativo (ou seja, Tomcat) de maneira neutra, com suporte para fornecer IDs de sessão em cabeçalhos para trabalhar com APIs RESTful
+- WebSocket: fornece a capacidade de manter o HttpSession ativo ao receber mensagens WebSocket
+- WebSession: permite substituir a WebSession do Spring WebFlux em um contêiner de aplicativo de maneira neutra
