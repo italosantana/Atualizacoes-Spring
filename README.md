@@ -145,7 +145,7 @@ Vamos as atualiações do `5.5.1`:
 Versão que está: 1.3.2<br/>
 Última atualização: 23/06/2011
 
-Vamos as atualiações do `1.3.2`:
+Vamos as atualiações do `1.3.3`:
 - Classes de modelo para link e modelos de representação de recursos
 - API Link builder para criar links apontadores para métodos do controlador Spring MVC
 - Suporte para formatos hipermídia como HAL
