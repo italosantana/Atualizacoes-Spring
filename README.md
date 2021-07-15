@@ -23,10 +23,10 @@ Versão que está: 2.5.2<br/>
 <h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
 
 <h3 align="center" >Spring Framework</h3>
-Versão que está: 5.3.8<br/>
+Versão que está: 5.3.9<br/>
 Última atualização: 09/06/2021
 
-Vamos as atualiações do `5.3.8`:
+Vamos as atualiações do `5.3.9`:
 - Core de tecnologias: injeção de dependência, eventos, recursos, i18n, validação, vinculação de dados, conversão de tipo, SpEL, AOP
 - Teste: objetos mock, framework TestContext, Spring MVC Test, WebTestClient.
 - Acesso a data: transição, suporte ao DAO, JDBC, ORM, Marshalling XML
