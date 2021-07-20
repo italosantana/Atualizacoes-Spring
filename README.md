@@ -116,7 +116,7 @@ Vamos as atualiações do `2021.0.1`:
 
 <h3 align="center" >Spring Integration</h3>
 Versão que está: 5.5.1<br/>
-Última atualização: 23/06/2011
+Última atualização: 23/06/2021
 
 Vamos as atualiações do `5.5.1`:
 - Implementação da maioria dos padrões de integração empresarial
@@ -143,7 +143,7 @@ Vamos as atualiações do `5.5.1`:
 
 <h3 align="center" >Spring HATEOAS</h3>
 Versão que está: 1.3.2<br/>
-Última atualização: 23/06/2011
+Última atualização: 23/06/2021
 
 Vamos as atualiações do `1.3.3`:
 - Classes de modelo para link e modelos de representação de recursos
@@ -154,7 +154,7 @@ Vamos as atualiações do `1.3.3`:
 
 <h3 align="center" >Spring Batch</h3>
 Versão que está: 4.3.3<br/>
-Última atualização: 19/05/2011
+Última atualização: 19/05/2021
 
 Vamos as atualiações do `4.3.3`:
 - Gestão de transações
@@ -168,9 +168,22 @@ Vamos as atualiações do `4.3.3`:
 
 <h3 align="center" >Spring AMQP</h3>
 Versão que está: 2.3.10<br/>
-Última atualização: 19/05/2011
+Última atualização: 19/01/2021
 
 Vamos as atualiações do `2.3.10`:
 - Listener container para processamento assíncrono de mensagens de entrada
 - RabbitTemplate para enviar e receber mensagens
 - RabbitAdmin para declarar filas, trocas e ligações automaticamente
+
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Flo</h3>
+Versão que está: 0.8.8<br/>
+Última atualização: 19/05/2011
+
+Vamos as atualiações do `0.8.8`:
+- Crie, gerencie e monitore pipelines de stream usando DSL, uma tela gráfica ou ambos
+- Escreva pipelines via DSL com assistente de conteúdo e preenchimento automático
+- Veja uma representação visual dos módulos em uma implantação distribuída
+- Use recursos de ajuste automático e layout de grade na GUI para uma organização mais fácil e eficiente de pipelines
