@@ -240,3 +240,20 @@ Vamos as atualiações do `3.0.1`:
 - Modelagem UML Eclipse Papyrus.
 - Armazene a configuração da máquina em um armazenamento persistente.
 - Integração Spring IOC para associar beans a uma máquina de estado.
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Vault</h3>
+Versão que está: 2.3.1<br/>
+Última atualização: 11/06/2021
+
+Vamos as atualiações do `2.3.1`:
+- Suporte à configuração do Spring usando classes @Configuration baseadas em Java.
+- A Classe auxiliar `VaultTemplate` que aumentará a produtividade executando operações Mongo comuns. Inclui mapeamento de objeto integrado entre documentos e POJOs.
+- Mecanismos de autenticação suportados: Token, AppRole, AWS-EC2, AWS-IAM, Azure MSI, Certificates (PKI), Cubbyhole, GCP-GCE, GCP-IAM, Kubernetes, e Pivotal CloudFoundry.
+- Integração da `@VaultPropertySource` baseada em anotação
+- Suporte para secrets renováveis e rotativos
+- Mapeamento de objetos ricos em recursos integrado ao serviço de conversão do Spring
+- Metadados de mapeamento baseados em anotações, mas extensíveis para suportar outros formatos de metadados
+- Implementação automática de interfaces de repositório, incluindo suporte para métodos de consulta personalizados.
+
