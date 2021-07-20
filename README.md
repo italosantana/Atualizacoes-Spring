@@ -197,10 +197,10 @@ Versão que está: 2.7.4<br/>
 Vamos as atualiações do `2.7.4`:
 - `KafkaTemplate`
 
-`KafkaMessageListenerContainer`
+- `KafkaMessageListenerContainer`
 
-`@KafkaListener`
+- `@KafkaListener`
 
-`KafkaTransactionManager`
+- `KafkaTransactionManager`
 
-`spring-kafka-test` jar com servidor kafka integrado
+- `spring-kafka-test` jar com servidor kafka integrado
