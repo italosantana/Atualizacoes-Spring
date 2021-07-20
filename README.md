@@ -257,3 +257,19 @@ Vamos as atualiações do `2.3.1`:
 - Metadados de mapeamento baseados em anotações, mas extensíveis para suportar outros formatos de metadados
 - Implementação automática de interfaces de repositório, incluindo suporte para métodos de consulta personalizados.
 
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Web Services</h3>
+Versão que está: 3.1.1<br/>
+Última atualização: 2021
+
+Vamos as atualiações do `3.1.1`:
+- Torna a Melhor Prática uma Prática Fácil: Spring Web Services torna mais fácil aplicar as melhores práticas. Isso inclui práticas como o perfil básico WS-I, desenvolvimento do Contrato-Primeiro e ter um acoplamento fraco entre o contrato e a implementação.
+- Mapeamentos poderosos: você pode distribuir a solicitação XML de entrada para qualquer objeto, dependendo da carga útil da mensagem, do cabeçalho de ação SOAP ou de uma expressão XPath.
+- Suporte a API XML: as mensagens XML de entrada podem ser tratadas em APIs JAXP padrão, como DOM, SAX e StAX, mas também JDOM, dom4j, XOM ou até mesmo tecnologias de empacotamento.
+- Flexível XML Marshalling: O módulo Object / XML Mapping na distribuição Spring Web Services oferece suporte a JAXB 1 e 2, Castor, XMLBeans, JiBX e XStream. E como é um módulo separado, você também pode usá-lo em código de serviços não Web.
+- Reutiliza sua experiência em Spring: Spring-WS usa contextos de aplicativos Spring para todas as configurações, o que deve ajudar os desenvolvedores Spring a se atualizarem rapidamente. Além disso, a arquitetura do Spring-WS é semelhante à do Spring-MVC.
+- Suporta WS-Security: WS-Security permite que você assine mensagens SOAP, criptografe e descriptografe-as ou autentique-as.
+- Integra-se com Acegi Security: A implementação WS-Security de Spring Web Services fornece integração com Spring Security. Isso significa que você também pode usar a configuração existente para o serviço SOAP.
+- Construído por Maven: Isso ajuda você a reutilizar com eficácia os artefatos do Spring Web Services em seus próprios projetos baseados em Maven.
+- Licença Apache. Você pode usar Spring-WS com segurança em seu projeto.
