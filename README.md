@@ -163,3 +163,14 @@ Vamos as atualiações do `4.3.3`:
 - Iniciar/Parar/Reiniciar
 - Tentar novamente/pular
 - Interface de administração baseada na Web (Spring Cloud Data Flow)
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring AMQP</h3>
+Versão que está: 2.3.10<br/>
+Última atualização: 19/05/2011
+
+Vamos as atualiações do `2.3.10`:
+- Listener container para processamento assíncrono de mensagens de entrada
+- RabbitTemplate para enviar e receber mensagens
+- RabbitAdmin para declarar filas, trocas e ligações automaticamente
