@@ -220,3 +220,23 @@ Vamos as atualiações do `2.0.0 release`:
 - Integração com a API de validação de bean
 - Comandos já integrados, como tela clara, ajuda deslumbrante, sair
 - Tabelas de arte ASCII, com formatação, alinhamento, bordas extravagantes, etc.
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Statemachine</h3>
+Versão que está: 3.0.1<br/>
+Última atualização: 11/07/2021
+
+Vamos as atualiações do `3.0.1`:
+- Máquina de estado "plana" de um nível fácil de usar para casos de uso simples.
+- Estrutura de máquina de estado hierárquica para facilitar a configuração de estado complexa.
+- Regiões de máquina de estado para fornecer configurações de estado ainda mais complexas.
+- Uso de gatilhos, transições, guardas e ações.
+- Digite uma adaptação de configuração segura
+- Padrão Builder para fácil instanciação para uso fora do contexto do aplicativo Spring
+- Receitas para casos de uso usuais
+- Máquina de estado distribuída baseada em um Zookeeper
+- Event listeners da máquina de estado.
+- Modelagem UML Eclipse Papyrus.
+- Armazene a configuração da máquina em um armazenamento persistente.
+- Integração Spring IOC para associar beans a uma máquina de estado.
