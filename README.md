@@ -180,10 +180,27 @@ Vamos as atualiações do `2.3.10`:
 
 <h3 align="center" >Spring Flo</h3>
 Versão que está: 0.8.8<br/>
-Última atualização: 19/05/2011
+Última atualização: 19/05/2021
 
 Vamos as atualiações do `0.8.8`:
 - Crie, gerencie e monitore pipelines de stream usando DSL, uma tela gráfica ou ambos
 - Escreva pipelines via DSL com assistente de conteúdo e preenchimento automático
 - Veja uma representação visual dos módulos em uma implantação distribuída
 - Use recursos de ajuste automático e layout de grade na GUI para uma organização mais fácil e eficiente de pipelines
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring for Apache Kafka</h3>
+Versão que está: 2.7.4<br/>
+Última atualização: 19/07/2021
+
+Vamos as atualiações do `2.7.4`:
+- `KafkaTemplate`
+
+`KafkaMessageListenerContainer`
+
+`@KafkaListener`
+
+`KafkaTransactionManager`
+
+`spring-kafka-test` jar com servidor kafka integrado
