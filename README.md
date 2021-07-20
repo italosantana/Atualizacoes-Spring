@@ -204,3 +204,19 @@ Vamos as atualiações do `2.7.4`:
 - `KafkaTransactionManager`
 
 - `spring-kafka-test` jar com servidor kafka integrado
+
+<h3 align="center" >--------------------------------------------------------------------------------------------------------</h3><br/>
+
+<h3 align="center" >Spring Shell</h3>
+Versão que está: 2.0.0 release<br/>
+Última atualização: 2020
+
+Vamos as atualiações do `2.0.0 release`:
+- Um modelo de programação simples e orientado por anotações para contribuir com comandos personalizados
+- Uso da funcionalidade de configuração automática do Spring Boot como base para uma estratégia de plugin de comando
+- Preenchimento de tabulação, colorização e execução de script
+- Personalização do prompt de comando, nome do arquivo de histórico do shell, tratamento de resultados e erros
+- Ativação dinâmica de comandos com base em critérios específicos de domínio
+- Integração com a API de validação de bean
+- Comandos já integrados, como tela clara, ajuda deslumbrante, sair
+- Tabelas de arte ASCII, com formatação, alinhamento, bordas extravagantes, etc.
