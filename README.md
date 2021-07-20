@@ -8,10 +8,26 @@
   <h3 align="center">Bem vindo(a) ao Ecosistema Spring</h3>
   <h4 align="center">Acompanhe as atualizações sobre as tecnologias do Ecosistema Spring em [PT-BR] </h4>
 
+<br/>
 
-  # LISTA DE PROJETOS
-1. [Spring Boot](#spring-boot)
-2. [Spring Framework](#spring-framework)
+  # LISTA DE PROJETOS</h3>
+1.  [Spring Boot](#spring-boot)
+2.  [Spring Framework](#spring-framework)
+3.  [Spring Data](#spring-data)
+4.  [Spring Cloud](#spring-cloud)
+5.  [Spring Cloud Data Flow](#spring-cloud-data-flow)
+6.  [Spring Security](#spring-security)
+7.  [Spring Session](#spring-session)
+8.  [Spring Integration](#spring-integration)
+9.  [Spring HATEOAS](#spring-hateoas)
+10. [Spring Batch](#spring-batch)
+11. [Spring AMQP](#spring-amqp)
+12. [Spring Flo](#spring-flo)
+13. [Spring for Apache Kafka](#spring-for-apache-kafka)
+14. [Spring Shell](#spring-shell)
+15. [Spring Statemachine](#spring-statemachine)
+16. [Spring Vault](#spring-vault)
+17. [Spring Web Services](#spring-web-services)
 
   
 <h3 align="center" >Spring Boot</h3>
