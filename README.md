@@ -40,7 +40,7 @@ Vamos as atualiações do `5.3.9`:
 Versão que está: 2021.0.3<br/>
 Última atualização: 2021
 
-Vamos as atualiações do `2021.0.2`:
+Vamos as atualiações do `2021.0.3`:
 - Deixará o repositório poderoso e terá abstrações de mapeamento de objeto personalizadas
 - Facilitação da consulta dinâmica a partir de nomes de métodos de repositório
 - Implementação em classes de base de domínio que fornecem propriedades básicas
