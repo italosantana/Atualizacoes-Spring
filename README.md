@@ -32,7 +32,7 @@
   
 <h3 align="center" >Spring Boot</h3>
 Versão que está: 2.5.3<br/>
-Última atualização: 22/06/2021
+Última atualização: 22/07/2021
  
  Vamos as atualiações do `2.5.3`:
 - Criar aplicações autossuficientes
