@@ -31,10 +31,10 @@
 
   
 <h3 align="center" >Spring Boot</h3>
-Versão que está: 2.5.2<br/>
-Última atualização: 25/06/2021
+Versão que está: 2.5.3<br/>
+Última atualização: 22/06/2021
  
- Vamos as atualiações do `2.5.2`:
+ Vamos as atualiações do `2.5.3`:
 - Criar aplicações autossuficientes
 - Você poderá incorporar Tomcat, Jetty ou Undertow diretamente (sem necessidade de importar arquivos WAR)
 - Spring Boot oferecerá dependências 'iniciais' opitativas para simplificar sua configuração de compilação
